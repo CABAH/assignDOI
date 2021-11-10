@@ -1,5 +1,7 @@
 # Assign a permanent DOI to your data and code
 
+<img align="right" src="zenodolovesgithub.png" alt="Github + Zenodo = DOI" width="250" style="margin-top: 20px"></a>
+
 (originally published on <a href="https://conservationbytes.com/2021/11/02/want-a-permanent-doi-assigned-to-your-data-and-code-follow-this-simple-recipe/#more-211775">ConservationBytes.com</a>)
 
 These days with data and code often required to be designated as open-source, licenced, and fully trackable for most manuscript submissions to a peer-reviewed journal, it’s easy to get lost in the multitude of platforms and options available. In most cases, we no longer have much of a choice to do so, even if you are reticent (although the benefits of posting your data and code online immediately far outweigh any potential disadvantages).
